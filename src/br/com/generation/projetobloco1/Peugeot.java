@@ -17,7 +17,7 @@ public class Peugeot {
 
 		System.out.println("===lista de modelos Peugeot===");
 		System.out.println("1 - 206");
-		System.out.println("2 -   207");
+		System.out.println("2 - 207 casa");
 		System.out.println("3 - 208");
 		System.out.println("4-  308");
 		System.out.println("5-  3008");
